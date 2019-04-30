@@ -19,7 +19,7 @@ Now the repo is copied into you computer
 
 ## use your preferred text editor to update this line:
 
-Replace this line with whatever you like (please don't write you Credit card number LOL 😜
+Someone wishes to get that number, huh? 😜
 
 
 After you save this file, you might run "git status" to see if git notice any change on the files.
